@@ -94,12 +94,19 @@ p{
 .rect-wrapper{
   background-color: #222;
   /*width: 350px;*/
-
   -webkit-border-radius: 15px 15px  0 0;
   -moz-border-radius: 15px 15px  0 0;
   border-radius: 15px 15px  0 0;
 margin: 0 auto;
 
+}
+.white-text{
+  color:#fff;
+}
+.rect-wrapper img{
+  -webkit-border-radius: 15px 15px  0 0;
+  -moz-border-radius: 15px 15px  0 0;
+  border-radius: 15px 15px  0 0;
 }
 
 .rect-wrapper h2{
